@@ -1,0 +1,1 @@
+用pygtk写的一个抽奖小程序,python lucky.py运行,点击start开始,数字还是不断变化,点击stop,获得的数字为获奖号码
